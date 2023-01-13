@@ -7,9 +7,7 @@ In the project directory, you can run:
 At first you have to run:
 
 ## `npm config set legacy-peer-deps true` 
-
-     then:
-     
+     then: 
 ## `npm i`
 
 ### `npm start`
